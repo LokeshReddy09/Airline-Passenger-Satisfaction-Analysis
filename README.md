@@ -1,4 +1,4 @@
-# **Airline Passenger Satisfaction Analysis**
+# **    Data-Mining-for-Customer-Satisfaction-Analysis-on-Airline-Passenger-Satisfaction-Survey**
 
 ## **Project Overview**
 This project focuses on analyzing airline passenger satisfaction using data mining techniques. The study evaluates multiple factors, including delays, in-flight services, cleanliness, and other service parameters, to determine their impact on customer satisfaction.
